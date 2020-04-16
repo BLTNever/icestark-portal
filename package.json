@@ -51,7 +51,6 @@
     "ideMode": {
         "name": "ice-react"
     },
-    "homepage": "//louisedylan.github.io/icestark-portal/",
     "private": true,
     "originTemplate": "@icedesign/stark-layout-scaffold"
 }

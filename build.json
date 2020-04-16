@@ -1,5 +1,6 @@
 {
     "outputDir": "dist",
+    "publicPath": "./",
     "plugins": [
         "build-plugin-icestark",
         [
