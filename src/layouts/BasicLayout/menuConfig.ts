@@ -11,21 +11,21 @@ const asideMenuConfig = [
         path: '/about',
         icon: 'chart-pie',
     },
-    {
-        name: 'Login',
-        path: '/login',
-        icon: 'account',
-    },
+    // {
+    //     name: 'Login',
+    //     path: '/login',
+    //     icon: 'account',
+    // },
     {
         name: 'child',
         icon: 'set',
         children: [
             {
-                path: 'child/',
+                path: '/child',
                 name: 'home',
             },
             {
-                path: 'child/master',
+                path: '/child/master',
                 name: 'master',
             },
         ]
