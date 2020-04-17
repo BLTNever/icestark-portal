@@ -1,6 +1,6 @@
 {
     "outputDir": "dist",
-    "publicPath": "./icestark-portal/",
+    "publicPath": "./",
     "plugins": [
         "build-plugin-icestark",
         [
